@@ -43,10 +43,11 @@ class login extends StatelessWidget {
                 ),
               ),
               SizedBox(height: 20),
+
               Container(
                 padding: EdgeInsets.all(20),
                 width: 350,
-                height: 600,
+                height: 450,
                 // color: const Color.fromARGB(255, 179, 194, 221),
                 decoration: BoxDecoration(
                   gradient: LinearGradient(
